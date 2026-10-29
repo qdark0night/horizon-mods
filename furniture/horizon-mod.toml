@@ -1,0 +1,9 @@
+id = "furniture"
+name = "Furniture"
+version = "0.1.0"
+description = "Chairs you can sit on (right-click with an empty hand, Shift to stand up), tables and a test block. Sitting needs cheats (it runs vanilla commands as you)."
+authors = ["dar1k-ness"]
+api = "0.2"
+side = "both"
+capabilities = ["registries", "game-read", "command", "input"]
+experimental = ["input"]
